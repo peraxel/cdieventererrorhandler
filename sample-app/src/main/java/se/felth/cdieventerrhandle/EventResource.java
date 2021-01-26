@@ -12,11 +12,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PUT;
 import javax.ws.rs.core.MediaType;
 
-/**
- * REST Web Service
- *
- * @author pa
- */
 @Path("event")
 public class EventResource {
 	@Inject

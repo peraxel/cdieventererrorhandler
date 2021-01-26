@@ -1,11 +1,5 @@
 package se.felth.cdieventerrhandle;
 
-import javax.enterprise.context.Dependent;
-
-/**
- *
- * @author pa
- */
 public class SomeEvent {
 	String text;
 

@@ -4,7 +4,6 @@ import se.felth.cdieventerrorhandler.LogCdiEventExceptions;
 import java.util.logging.Logger;
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.event.ObservesAsync;
-import javax.interceptor.Interceptors;
 
 @ApplicationScoped
 public class EventHandler {
